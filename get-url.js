@@ -27,7 +27,7 @@ function addLink() {
 				    Code: code,
 				    URL: url
 	  });
-  resUrl.innerHTML = "Generated URL: http://shrt.42web.io?u=" + code + "."
+  resUrl.innerHTML = "Generated URL: ?u=" + code + "." // VERY IMPORTANT: EDIT THIS - whatever url you setup, such as https://www.gle.co
   if (url == "https://www.youtube.com/watch?v=dQw4w9WgXcQ") {
   	alert("Have fun Rick-Rolling! ;)") // just for fun, you can remove this if you'd like.
   }
