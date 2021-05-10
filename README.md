@@ -28,6 +28,6 @@ It's very similar to bit.ly.
 
 ## about ##
 
-Made - Monday, May 10th, 2021
-By - Lola Raji
-Languages - HTML and (Vanilla) JavaScript
+Made - Monday, May 10th, 2021 |
+By - Lola Raji |
+Languages - HTML & (Vanilla) JavaScript
