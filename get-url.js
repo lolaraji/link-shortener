@@ -29,7 +29,7 @@ function addLink() {
 	  });
   resUrl.innerHTML = "Generated URL: http://shrt.42web.io?u=" + code + "."
   if (url == "https://www.youtube.com/watch?v=dQw4w9WgXcQ") {
-  	alert("Have fun Rick-Rolling! ;)")
+  	alert("Have fun Rick-Rolling! ;)") // just for fun, you can remove this if you'd like.
   }
 }
 
@@ -53,6 +53,6 @@ if (urlParams.has("u") == true) {
 		window.location.href = link;
 	});
 } else {
-	window.location.href = "https://link-shortener.lolaraji.repl.co";
+	window.location.href = ""; // the page where the generation of the link occurs
 }
 }
