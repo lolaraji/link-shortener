@@ -22,6 +22,16 @@ The shortener is quite easy to use. Simply enter the URL you'd like to shorten, 
 
 It's very similar to bit.ly.
 
+## how it was made ##
+
+Using URL parameters, I was able to make a URL shortener.
+
+If I had made this using NodeJS, though it would've taken much longer and would be in much higher quality.
+
+You can of course choose to do that, but I chose to do this. 
+
+It minimizes the amount of pages needed and is very simple to understand by the average Web Developer.
+
 ## Contributers ##
 
 - Lola Raji (Sole Contributer)
