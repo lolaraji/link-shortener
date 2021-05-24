@@ -1,6 +1,6 @@
 // firebase config info
   
-  function makeid(length) {
+  function str(length) {
     var result           = [];
     var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     var charactersLength = characters.length;
@@ -16,7 +16,7 @@
   
   function Ready() {
   	url = document.getElementById("link").value;
-  code = makeid(5);
+  code = str(5);
   resUrl = document.getElementById("result-url");
   	
   }
