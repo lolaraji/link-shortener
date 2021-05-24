@@ -16,6 +16,10 @@ If you've used firebase for vanilla javascript, then you can do this all on your
 
 I'll try as much as I can to update the Firebase script source however if in the event that I do not, please enter it yourself.
 
+## view the project in action ##
+
+The project is posted here: https://link-shortener.lolaraji.repl.co (or if you'd like to open the link using my shortener here: http://shrt.42web.io?u=8KwHg
+
 ## how to use ##
 
 The shortener is quite easy to use. Simply enter the URL you'd like to shorten, copy the shortened URL, and paste it into any given web browser.
