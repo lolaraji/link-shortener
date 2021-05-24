@@ -36,7 +36,26 @@ You can of course choose to do that, but I chose to do this.
 
 It minimizes the amount of pages needed and is very simple to understand by the average Web Developer.
 
-## Contributers ##
+## troubleshooting ##
+
+Problem: The page won't load!
+Solution: This is usually due to your internet connectivity. Try restarting your motem or router and reload the page.
+
+Problem: I can't get my previously generated link!
+Solution: This is because due to an overflow of generations, I must clear the database daily.
+
+## faq ##
+
+Question: Can I use this for my work projects?
+Answer: Of course! While you don't need to give me credit, I do expect for you not to claim that it is yours.
+
+Question: Can I change the link of the shortener?
+Answer: Once again, of course! Just remember to check through both of the javascript files.
+
+Question: Why didn't you use NodeJS?
+Answer: I wanted to be creative and use something other than what would traditionally be used.
+
+## contributions ##
 
 - Lola Raji (Sole Contributer)
 
