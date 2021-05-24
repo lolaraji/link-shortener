@@ -1,4 +1,4 @@
-// firebase config info
+// firebase config info should be placed here
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
