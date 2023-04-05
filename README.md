@@ -1,4 +1,4 @@
-# vanilla javascript link shortener by Lola Raji
+# vanilla javascript link shortener by lola raji
 
 Shorten links with ease!
 
@@ -64,3 +64,5 @@ Answer: I wanted to be creative and use something other than what would traditio
 Made - Monday, May 10th, 2021 |
 By - Lola Raji |
 Languages - HTML & (Vanilla) JavaScript
+
+> last updated: 4 april 2023 // :D
